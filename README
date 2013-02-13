@@ -4,7 +4,7 @@ This is the readme file for getting public users upload to your flickr account.
 
 2) Generate the API Key and Secret.
 
-3) Download phpFlickr library from http://code.google.com/p/phpflickr/.
+3) Download phpFlickr library .
 
 4) Modify your app settings by making the callbackURL point to 
    "getToken.php" in phpFlickr folder.
